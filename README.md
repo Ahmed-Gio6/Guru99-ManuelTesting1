@@ -12,7 +12,7 @@ This repository contains all *manual testing documents* for the *Guru99 Banking 
 ## 📋 Available Documents  
 - 🐞 *Bugs Report*: A detailed report on defects identified during testing.  
 - ✅ *Test Cases Report*: A structured document listing test cases, expected outcomes, and actual results.  
-- 📄 *SRS Review: An analytical review of the **System Requirements Specification*.  
+- 📄 SRS Review: An analytical review of the *System Requirements Specification*.  
 - 📸 *Screenshots & Videos*: Visual evidence of test execution, failures, and system behavior.  
 
 ## 🚀 How to Use  
